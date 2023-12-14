@@ -1,0 +1,1 @@
+This is a tryout of Kotlin/JS
